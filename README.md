@@ -24,7 +24,7 @@
 
 
 # DROP SYSTEM
-• Just like in real CS after match you gain XP and stars to depending on how you played the match which then you can unlock weapon finishes since it generates random drops.
+• After match you gain XP and stars depending on how you played the match which then you can unlock weapon finishes and it also generates random drops.
 
 <img width="1919" height="564" alt="4" src="https://github.com/user-attachments/assets/bb5eb099-0580-48cf-8183-d41358971930" />
 
