@@ -1,5 +1,5 @@
 
-# COUNTER-STRIKE 2: ONLINE
+# CS2: ONLINE
 • Total conversion mod that adds a custom GC to Counter-Strike 2. The mod uses PYTHON 3 and any failed attempts to run the mod means you need to download the official Python 3, off the Microsoft store.
 
 <img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/52f899fb-946c-49b7-92e2-3233c4084b8b" />
