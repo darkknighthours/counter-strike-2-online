@@ -27,3 +27,12 @@
 • Just like in real CS after match you gain XP and stars to depending on how you played the match which then you can unlock weapon finishes since it generates random drops.
 
 <img width="1919" height="564" alt="4" src="https://github.com/user-attachments/assets/bb5eb099-0580-48cf-8183-d41358971930" />
+
+
+
+
+# HOW TO INSTALL
+• Install the .bat file (This is the current supported CS2 version)
+• Run the CS2Online launcher and install the mod
+• Run the mod over the launcher
+• First time run might take a few minutes, Steam must be ON because it uses the Steam network to save and keep track of your items since they are tied to your ID
