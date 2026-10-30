@@ -33,6 +33,12 @@
 
 # HOW TO INSTALL
 • Install the .bat file (This is the current supported CS2 version)
+
+
 • Run the CS2Online launcher and install the mod
+
+
 • Run the mod over the launcher
+
+
 • First time run might take a few minutes, Steam must be ON because it uses the Steam network to save and keep track of your items since they are tied to your ID
